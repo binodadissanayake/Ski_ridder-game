@@ -1,0 +1,77 @@
+{
+    "activeFile": "Level3.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "C:/Users/Administrator/ski_runner/assets/tiles/Level2.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 493.3333333333333,
+                "y": 636.6666666666665
+            }
+        },
+        "C:/Users/Administrator/ski_runner/assets/tiles/Level2.tmx#tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Administrator/ski_runner/assets/tiles/tilemap_packed.tsx": {
+            "scaleInDock": 1
+        },
+        "Level1.tmx": {
+            "expandedObjectLayers": [
+                7,
+                6
+            ],
+            "scale": 2,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 247.5,
+                "y": 215.25
+            }
+        },
+        "Level2.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 159,
+                "y": 943.5
+            }
+        },
+        "Level3.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 768,
+                "y": 195.5
+            }
+        },
+        "Level3.tmx#tilemap_packed": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilemap_packed.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Administrator/ski_runner/assets/tiles",
+    "map.lastUsedExportFilter": "All Files (*)",
+    "openFiles": [
+        "tilemap_packed.tsx",
+        "Level1.tmx",
+        "C:/Users/Administrator/ski_runner/assets/tiles/Level2.tmx",
+        "Level2.tmx",
+        "Level3.tmx"
+    ],
+    "project": "Level1.tmx.tiled-project",
+    "property.type": "int",
+    "recentFiles": [
+        "tilemap_packed.tsx",
+        "Level1.tmx",
+        "C:/Users/Administrator/ski_runner/assets/tiles/Level2.tmx",
+        "Level2.tmx",
+        "Level3.tmx"
+    ]
+}

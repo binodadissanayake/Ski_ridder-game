@@ -1,2 +1,16 @@
-# Ski_ridder-game
-Ski Rider Game is a 2D endless skiing mobile game developed with Flutter and Flame  game engine. The game lets the player guide a skier down a hill, evading obstacles and  gaining points. It specializes in smooth animation, responsive controls, and real-time  gaming experience. 
+# ski_runner
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
